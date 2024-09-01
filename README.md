@@ -2,6 +2,7 @@
 一个简单的图片理解问题集
 
 ## The Image
+url: <https://github.com/vra/hangzhou_line1_benchmark/blob/main/hangzhou_line1_screenshot.jpg>
 
 ## Questions
 ```plain
